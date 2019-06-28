@@ -155,7 +155,7 @@ exclude: ['node_modules', 'dev', 'package.json', '自定义的文件夹名字']
 
 #### 侧边栏
 
-![](screenshot/jekyll-theme-h2o-sideBar1.png)
+![](screenshot/jekyll-theme-h2o-lingfei.jpg)
 
 侧边栏分为两个部分：【个人简介】和【推荐标签】。当屏幕宽度小于960px时，侧边栏会被隐藏。
 
